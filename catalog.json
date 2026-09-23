@@ -1,20 +1,144 @@
 {
   "version": 1,
-  "updated": "2026-09-23",
+  "updated": "2026-09-23 16:54",
+  "repo": "thienlogin/retroreader-online",
   "categories": {
     "manga": {
       "name": "Truyện Tranh",
       "icon": "📚",
+      "count": 0,
       "items": []
     },
     "novels": {
       "name": "Truyện Chữ",
       "icon": "📖",
-      "items": []
+      "count": 17,
+      "items": [
+        {
+          "filename": "Chủ Nghĩa Khắc Kỷ – Phong Cách Sống Bản Lĩnh Và Bình Thản.epub",
+          "path": "novels/Chưa phân loại/Chủ Nghĩa Khắc Kỷ – Phong Cách Sống Bản Lĩnh Và Bình Thản.epub",
+          "size": 666011,
+          "size_mb": 0.6,
+          "series": "Chưa phân loại"
+        },
+        {
+          "filename": "Mưa Đỏ.epub",
+          "path": "novels/Chưa phân loại/Mưa Đỏ.epub",
+          "size": 414439,
+          "size_mb": 0.4,
+          "series": "Chưa phân loại"
+        },
+        {
+          "filename": "Đại Dương Đen – Những Câu Chuyện Từ Thế Giới Của Trầm Cảm.epub",
+          "path": "novels/Chưa phân loại/Đại Dương Đen – Những Câu Chuyện Từ Thế Giới Của Trầm Cảm.epub",
+          "size": 9923872,
+          "size_mb": 9.5,
+          "series": "Chưa phân loại"
+        },
+        {
+          "filename": "Tết ở làng Địa Ngục.epub",
+          "path": "novels/Kinh dị/Tết ở làng Địa Ngục.epub",
+          "size": 1333959,
+          "size_mb": 1.3,
+          "series": "Kinh dị"
+        },
+        {
+          "filename": "Dám Nghĩ Lại.pdf",
+          "path": "novels/Kỹ năng sống/Dám Nghĩ Lại.pdf",
+          "size": 5744649,
+          "size_mb": 5.5,
+          "series": "Kỹ năng sống"
+        },
+        {
+          "filename": "Kẻ Khôn Đi Lối Khác.epub",
+          "path": "novels/Kỹ năng sống/Kẻ Khôn Đi Lối Khác.epub",
+          "size": 608478,
+          "size_mb": 0.6,
+          "series": "Kỹ năng sống"
+        },
+        {
+          "filename": "Muôn Kiếp Nhân Sinh 3.epub",
+          "path": "novels/Kỹ năng sống/Muôn Kiếp Nhân Sinh 3.epub",
+          "size": 397963,
+          "size_mb": 0.4,
+          "series": "Kỹ năng sống"
+        },
+        {
+          "filename": "Nghệ Thuật Tư Duy Chiến Lược.epub",
+          "path": "novels/Kỹ năng sống/Nghệ Thuật Tư Duy Chiến Lược.epub",
+          "size": 2549648,
+          "size_mb": 2.4,
+          "series": "Kỹ năng sống"
+        },
+        {
+          "filename": "Nói Chuyện Là Bản Năng, Giữ Miệng Là Tu Dưỡng, Im Lặng Là Trí Tuệ.pdf",
+          "path": "novels/Kỹ năng sống/Nói Chuyện Là Bản Năng, Giữ Miệng Là Tu Dưỡng, Im Lặng Là Trí Tuệ.pdf",
+          "size": 16085320,
+          "size_mb": 15.3,
+          "series": "Kỹ năng sống"
+        },
+        {
+          "filename": "Sức Mạnh Của Ngôn Từ.epub",
+          "path": "novels/Kỹ năng sống/Sức Mạnh Của Ngôn Từ.epub",
+          "size": 387820,
+          "size_mb": 0.4,
+          "series": "Kỹ năng sống"
+        },
+        {
+          "filename": "Thao Túng Tâm Lý.epub",
+          "path": "novels/Kỹ năng sống/Thao Túng Tâm Lý.epub",
+          "size": 752091,
+          "size_mb": 0.7,
+          "series": "Kỹ năng sống"
+        },
+        {
+          "filename": "Tiền Đẻ Ra Tiền_ Đầu Tư Tài Chính Thông Minh.epub",
+          "path": "novels/Kỹ năng sống/Tiền Đẻ Ra Tiền_ Đầu Tư Tài Chính Thông Minh.epub",
+          "size": 13,
+          "size_mb": 0.0,
+          "series": "Kỹ năng sống"
+        },
+        {
+          "filename": "Tư Duy Ngược Dịch Chuyển Thế Giới.epub",
+          "path": "novels/Kỹ năng sống/Tư Duy Ngược Dịch Chuyển Thế Giới.epub",
+          "size": 1061210,
+          "size_mb": 1.0,
+          "series": "Kỹ năng sống"
+        },
+        {
+          "filename": "Cây Cam Ngọt Của Tôi.epub",
+          "path": "novels/Tiểu thuyết/Cây Cam Ngọt Của Tôi.epub",
+          "size": 670472,
+          "size_mb": 0.6,
+          "series": "Tiểu thuyết"
+        },
+        {
+          "filename": "Rừng Na-uy.epub",
+          "path": "novels/Tiểu thuyết/Rừng Na-uy.epub",
+          "size": 498013,
+          "size_mb": 0.5,
+          "series": "Tiểu thuyết"
+        },
+        {
+          "filename": "Cho Tôi Xin Một Vé Đi Tuổi Thơ.epub",
+          "path": "novels/Tuổi học trò/Cho Tôi Xin Một Vé Đi Tuổi Thơ.epub",
+          "size": 636061,
+          "size_mb": 0.6,
+          "series": "Tuổi học trò"
+        },
+        {
+          "filename": "Chiến Tranh Tiền Tệ – Phần 2.epub",
+          "path": "novels/Tài chính/Chiến Tranh Tiền Tệ – Phần 2.epub",
+          "size": 2704306,
+          "size_mb": 2.6,
+          "series": "Tài chính"
+        }
+      ]
     },
     "audiobooks": {
       "name": "Sách Nói",
       "icon": "🎧",
+      "count": 0,
       "items": []
     }
   }
