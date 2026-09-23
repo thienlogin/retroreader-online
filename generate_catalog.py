@@ -71,7 +71,7 @@ def generate():
     catalog = {
         "version": 1,
         "updated": datetime.now().strftime("%Y-%m-%d %H:%M"),
-        "repo": "anhnguyet241/retroreader-online",
+        "repo": "thienlogin/retroreader-online",
         "categories": {},
     }
 
