@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "updated": "2026-09-23",
+  "categories": {
+    "manga": {
+      "name": "Truyện Tranh",
+      "icon": "📚",
+      "items": []
+    },
+    "novels": {
+      "name": "Truyện Chữ",
+      "icon": "📖",
+      "items": []
+    },
+    "audiobooks": {
+      "name": "Sách Nói",
+      "icon": "🎧",
+      "items": []
+    }
+  }
+}

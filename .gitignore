@@ -1,0 +1,12 @@
+# Generated files
+*.pyc
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large files warning - use Git LFS for files > 50MB
+# git lfs track "*.cbz"
+# git lfs track "*.mp3"
